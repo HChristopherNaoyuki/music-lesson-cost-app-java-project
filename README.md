@@ -15,7 +15,7 @@ The **Music Lesson Cost Calculator** is a Java Swing application that allows use
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/music-lesson-cost-calculator.git
+   git clone https://github.com/HChristopherNaoyuki/music-lesson-cost-app-java-project.git
    ```
    
 2. Compile and run the program:
